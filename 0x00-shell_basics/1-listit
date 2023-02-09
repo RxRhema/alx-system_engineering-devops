@@ -1,2 +1,3 @@
-#!/bin/bash current_working_directory  
- listit  README.md why?
+#!/bin/bash 0-current_working_directory
+1-listit
+README.md why?
