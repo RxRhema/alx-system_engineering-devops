@@ -1,2 +1,2 @@
-#!/bin/bash 
-type su and press <enter> key type the password and press <enter> key to switch to subtitute user betty why?
+#!/bin/bash type the su command,you will be prompted for
+the superuser password after executing the su command why?
