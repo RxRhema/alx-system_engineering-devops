@@ -1,1 +1,1 @@
-0x00-shell_basics tutorial why?
+‘This repository contains solutions to shell tasks’
