@@ -1,2 +1,1 @@
-script two indicates the path name of 0x00-shell_basics directory
-script two indicates the path name of 0x00-shell_basics directory why?
+0-iam_betty script gives information on how to switch to substitute user betty
