@@ -1,2 +1,2 @@
 #!/bin/bash
--rw-r--r-- 1 root root  62 Feb  8 19:22 listit  -rw-r--r-- 1 root root  49 Feb  8 19:48 bring_me_home why?
+drwxr-xr-x 2 root root 213 Feb 10 01:54 drwxr-xr-x 5 root root  90 Feb 10 01:24 -rwxr--r-- 1 root root 106 Feb  8 18:03 0-current_working_directory -rw-r--r-- 1 root root  62 Feb  8 19:22 1-listit -rw-r--r-- 1 root root  49 Feb  8 19:48 2-bring_me_home -rw-r--r-- 1 root root 113 Feb  8 19:59 3-listfiles -rw-r--r-- 1 root root 119 Feb 10 01:44 4-listmorefiles -rw-r--r-- 1 root root  67 Feb  8 20:29 5-listfilesdigitonly -rw-r--r-- 1 root root 108 Feb  8 20:42 6-firstdirectory -rw-r--r-- 1 root root   0 Feb  8 20:45 7-movethatfile -rw-r--r-- 1 root root  94 Feb  9 09:39 README.md why?
