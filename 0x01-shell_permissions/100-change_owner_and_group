@@ -1,2 +1,2 @@
-#!/bin/bash type sudo chown 'vincent' '0x01-shell_permissions' command and enter password when prompted
-type chgrp 'staff' '0x01-shell_permissions' command and enter password when prompted why?
+#!/bin/bash
+type sudo chown 'vincent' '0x01-shell_permissions' command and type chgrp 'staff' '0x01-shell_permissions' command why?

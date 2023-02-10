@@ -1,2 +1,2 @@
-#!/bin/bash type chmod 114 'hello' command
-the will grant the owner and group permission to execute 'hello' file and others to read the file why?
+#!/bin/bash
+type chmod 114 'hello' command, the will grant the owner and group permission to execute 'hello' file and others to read the file why?

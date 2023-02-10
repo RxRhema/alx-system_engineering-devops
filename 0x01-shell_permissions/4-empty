@@ -1,2 +1,2 @@
-#!/bin/bash type touch 'hello' command
-hello empty file is created why?
+#!/bin/bash 
+type touch 'hello' command, hello empty file is created why?

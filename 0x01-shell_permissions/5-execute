@@ -1,2 +1,2 @@
-#!/bin/bash type chmod 100 'hello' command
-executions permissions will be granted to the owner of the file why?
+#!/bin/bash
+type chmod 100 'hello' command, executions permissions will be granted to the owner of the file why?

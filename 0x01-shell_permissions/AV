@@ -1,2 +1,0 @@
-#!/bin/bash type chmod 111 '0x01-shell_permissions'
-this will give executive permissions to all subdirectories under '0x01-shell_permissions' why?
