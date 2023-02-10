@@ -1,1 +1,2 @@
-#!/bin/bash .                     2-bring_me_home            ..                           3-listfiles why?
+#!/bin/bash
+-rw-r--r-- 1 root root  62 Feb  8 19:22 listit  -rw-r--r-- 1 root root  49 Feb  8 19:48 bring_me_home why?
