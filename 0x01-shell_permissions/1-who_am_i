@@ -1,2 +1,2 @@
-#!/bin/bash type id command
-username will be displayed why?
+#!/bin/bash uid=0(root) gid=0(root) 
+groups=0(root) why?

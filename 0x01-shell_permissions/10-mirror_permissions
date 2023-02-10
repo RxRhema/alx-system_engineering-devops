@@ -1,0 +1,2 @@
+#!/bin/bash type chmod 664 'hello' command
+the permissions mode of 'hello' file will be the same as 'elloh' file why?

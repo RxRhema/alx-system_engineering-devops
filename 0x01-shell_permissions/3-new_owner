@@ -1,0 +1,2 @@
+#!/bin/bash type sudo chown 'betty' 'hello'
+enter password when prompted why?

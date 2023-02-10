@@ -1,0 +1,2 @@
+type dism /online /Enable-Feature /FeatureName:TelnetClient command to install Telnets on windows
+type telnet towel.blinkenlights.nl command to play the StarWars IV episode in the terminal why?

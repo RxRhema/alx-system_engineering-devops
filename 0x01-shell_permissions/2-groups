@@ -1,0 +1,3 @@
+                                                                                                                       
+#!/bin/bash usage: sudo -v [-AknS] [-g group] [-h host] [-p prompt] [-u user]                                                                                    
+usage: sudo -l [-AknS] [-g group] [-h host] [-p prompt] [-U user] [-u user] [command] why?

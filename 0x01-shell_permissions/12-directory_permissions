@@ -1,0 +1,2 @@
+#!/bin/bash type mkdir my_dir command
+type chmod 751 my_dir why?

@@ -1,0 +1,2 @@
+#!/bin/bash type chgrp 'school' 'hello' command
+this will change group ownership of 'hello' file why?
