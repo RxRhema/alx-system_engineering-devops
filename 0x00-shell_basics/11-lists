@@ -1,0 +1,14 @@
+#!/bin/bash
+10-back                      5-listfilesdigitonly
+1-listit                     6-firstdirectory
+2-bring_me_home              7-movethatfile
+3-listfiles                  README.md
+.                            3-listfiles
+..                           4-listmorefiles
+0-current_working_directory  5-listfilesdigitonly
+10-back                      6-firstdirectory
+1-listit                     7-movethatfile
+2-bring_me_home              README.md
+.   0x00-shell_basics       .git
+..  0x01-shell_permissions  README.md
+.  ..  why?

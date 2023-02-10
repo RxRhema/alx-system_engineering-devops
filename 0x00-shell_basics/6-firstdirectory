@@ -1,1 +1,2 @@
-#!/bin/bash press mkdir my_first_directory press <enter>input mv my_first_directory /tmp/ press <enter> why
+#!/bin/bash
+press mkdir 'my_first_directory' command, press mv 'my_first_directory' /tmp/ press command why?

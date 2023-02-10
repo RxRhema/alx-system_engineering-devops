@@ -1,2 +1,18 @@
-#!/bin/bash1-listit  3-listfiles 
- 4-listmorefiles  README.md why?
+#!/bin/bash
+-rwxr--r-- 1 0 0   85 Feb 10 02:49 0-current_working_directory                                                                                       
+
+-rw-r--r-- 1 0 0   64 Feb 10 02:57 1-listit                                                                                                          
+
+-rw-r--r-- 1 0 0   22 Feb 10 02:54 2-bring_me_home                                                                                                   
+
+-rw-r--r-- 1 0 0 1427 Feb 10 03:05 3-listfiles                                                                                                       
+
+-rw-r--r-- 1 0 0 1728 Feb 10 02:39 4-listmorefiles                                                                                                   
+
+-rw-r--r-- 1 0 0   67 Feb  8 20:29 5-listfilesdigitonly                                                                                              
+
+-rw-r--r-- 1 0 0  108 Feb  8 20:42 6-firstdirectory                                                                                                  
+
+-rw-r--r-- 1 0 0    0 Feb  8 20:45 7-movethatfile                                                                                                    
+
+-rw-r--r-- 1 0 0   94 Feb  9 09:39 README.md why?

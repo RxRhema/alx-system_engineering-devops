@@ -1,2 +1,20 @@
-#!/bin/bash-rw-r--r-- 1 root root  62 Feb  8 19:22 1-lis
--rw-r--r-- 1 root root  49 Feb  8 19:48 2-bring_me why?
+#!/bin/bash
+total 32                                                                                                                                             
+
+-rwxr--r-- 1 root root   85 Feb 10 02:49 0-current_working_directory                                                                                 
+
+-rw-r--r-- 1 root root   64 Feb 10 02:57 1-listit                                                                                                    
+
+-rw-r--r-- 1 root root   22 Feb 10 02:54 2-bring_me_home                                                                                             
+
+-rw-r--r-- 1 root root  113 Feb  8 19:59 3-listfiles                                                                                                 
+
+-rw-r--r-- 1 root root 1728 Feb 10 02:39 4-listmorefiles                                                                                             
+
+-rw-r--r-- 1 root root   67 Feb  8 20:29 5-listfilesdigitonly                                                                                        
+
+-rw-r--r-- 1 root root  108 Feb  8 20:42 6-firstdirectory                                                                                            
+
+-rw-r--r-- 1 root root    0 Feb  8 20:45 7-movethatfile                                                                                              
+
+-rw-r--r-- 1 root root   94 Feb  9 09:39 README.md why?
