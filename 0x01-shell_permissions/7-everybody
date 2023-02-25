@@ -1,2 +1,2 @@
-#!/bin/bash type 777 'hello' command
-gives all permissions to owner of the file, the group and others why?
+#!/bin/bash
+chmod 777 hello
