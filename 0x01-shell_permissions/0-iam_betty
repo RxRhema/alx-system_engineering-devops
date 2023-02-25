@@ -1,2 +1,2 @@
 #!/bin/bash 
-type the su command,enter superuser password when prompted why?
+su betty

@@ -1,2 +1,2 @@
 #!/bin/bash
-type sudo chown 'betty' 'hello' and enter password when prompted why?
+sudo chown betty hello

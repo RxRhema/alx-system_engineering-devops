@@ -1,2 +1,2 @@
-#!/bin/bash chmod 007 'hello'
-gives no permissions to the owner of the file and group,giving all permissions to other why? 
+#!/bin/bash 
+chmod 007 hello

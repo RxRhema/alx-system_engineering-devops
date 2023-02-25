@@ -1,2 +1,2 @@
 #!/bin/bash
-type dism /online /Enable-Feature /FeatureName:TelnetClient command to install Telnet, then type telnet towel.blinkenlights.nl command why?
+telnet towel. blinkenlights.nl

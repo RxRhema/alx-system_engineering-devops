@@ -1,2 +1,2 @@
-#!/bin/bash type ls -l /bin/bash command
-this will display information permissions of the file why?
+#!/bin/bash
+chmod 753 hello
