@@ -1,1 +1,2 @@
-VimCrypt~03!å}˜­km*‚^3gáI$íù>cÈã_É¥®Äíº{{¦Á%cZÔxñIöH¯ı\ş
+#!/bin/bash
+printf "%.2f" $NUM | sort
